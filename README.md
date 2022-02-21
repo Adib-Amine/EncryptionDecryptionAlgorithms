@@ -2,14 +2,14 @@
 
 | Stage |
 | --- |
-|  [Stage 1/6: Encrypted!](/Encryption-Decryption/Encrypted_/task.md) |
-|  [Stage 2/6: Knowledge is key ](/Encryption-Decryption/Knowledge_is_key/task.md)|
-|  [Stage 3/6: Decrypted!](/Encryption-Decryption/Decrypted_/task.md)|
-|  [Stage 4/6: I command you](/Encryption-Decryption/I_command_you/task.md)|
-|  [Stage 5/6: X-files](/Encryption-Decryption/X-files/task.md)|
-|  [Stage 6/6: Choices, choices](/Encryption-Decryption/Choices_choices/task.md)|
+|  [Stage 1/6: Encrypted!](/ChallengeStage/Encrypted_/task.md) |
+|  [Stage 2/6: Knowledge is key ](/ChallengeStage/Knowledge_is_key/task.md)|
+|  [Stage 3/6: Decrypted!](/ChallengeStage/Decrypted_/task.md)|
+|  [Stage 4/6: I command you](/ChallengeStage/I_command_you/task.md)|
+|  [Stage 5/6: X-files](/ChallengeStage/X-files/task.md)|
+|  [Stage 6/6: Choices, choices](/ChallengeStage/Choices_choices/task.md)|
 
 
 
-https://user-images.githubusercontent.com/17069214/148761358-01fd1982-afa8-4bf7-9dbb-3da3323e2872.mp4
+https://user-images.githubusercontent.com/17069214/155028637-6d45f63b-0f43-4651-b2ee-61aa9db15b5b.mp4
 
